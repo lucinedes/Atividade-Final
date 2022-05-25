@@ -270,7 +270,7 @@ public class Produto {
 
                         default: {
                                 System.out.println("-------------------------------------------");
-                                System.out.println("#########    OPÇAO INVALIDA!!!    #########");
+                                System.out.println("#########    OPÇAO INVALIDA!!!!    #########");
                                 System.out.println("--------------------------------------------");
 
 
